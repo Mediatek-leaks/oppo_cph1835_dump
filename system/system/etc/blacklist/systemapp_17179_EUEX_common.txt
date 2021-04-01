@@ -1,0 +1,4 @@
+com.android.browser
+com.facebook.appmanager
+com.facebook.system
+com.facebook.services
