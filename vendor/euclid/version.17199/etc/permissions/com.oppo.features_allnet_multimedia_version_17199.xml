@@ -1,0 +1,5 @@
+
+<permissions>
+    <feature name="oppo.aod.support" />
+    <feature name="oppo.high.brightness.support" />
+</permissions>

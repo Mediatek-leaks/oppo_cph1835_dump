@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<features>
+    <!-- BSP feature -->
+    <feature name="com.oppo.eng.otg.support" />
+    <feature name="com.oppo.eng.sdcard.support" />
+    <feature name="com.oppo.eng.smallboard.detect.support" />
+    <feature name="com.oppo.eng.a.smallboard.detect.support" />
+    <feature name="com.oppo.eng.virtual.gyroscope.sensor.support" />
+    <feature name="com.oppo.eng.magnetic.sensor.support" />
+    <feature name="com.oppo.eng.gravity.sensor.calibrate.support" />
+    <feature name="com.oppo.eng.proximity.sensor.calibrate.support" />
+    <feature name="com.oppo.eng.light.sensor.calibrate.support" />
+    <feature name="com.oppo.eng.sensor.selftest.support" />
+    <feature name="com.oppo.eng.soft.stepcounter.sensor.support" />
+    <feature name="com.oppo.eng.ship.mode.support" />
+    <feature name="com.oppo.eng.charger.id.voltage.support" />
+
+    <!-- Network feature -->
+    <feature name="com.oppo.eng.gemini.support" />
+    <feature name="com.oppo.eng.sim.hot.swap.support" />
+    <!-- Multimedia feature -->
+    <feature name="com.oppo.eng.smart.pa.calibrate.support" />
+
+    <!-- Connectivity feature -->
+
+    <!-- Camera feature -->
+    <feature name="com.oppo.eng.flash.light.calibrate.support" />
+    <feature name="com.oppo.eng.flash.light.auto.calibrate.support"/>
+    <feature name="com.oppo.eng.flash.light.support" />
+
+    <!-- Android feature -->
+    <feature name="com.oppo.eng.navigation.bar.support" />
+    <feature name="com.oppo.eng.standlone.userdata.support" />
+    <feature name="com.oppo.eng.mtk.atm.mode.support" />
+    <feature name="com.oppo.eng.mtk.platform" />
+    <feature name="com.oppo.eng.exp.platform" />
+
+    <!-- Multimedia parameters -->
+    <feature name="com.oppo.eng.fm.convert.rate" value="100" />
+
+    <!-- Network parameters -->
+    <feature name="com.oppo.eng.sar.body" value="1.078" />
+    <feature name="com.oppo.eng.sar.head" value="1.271" />
+</features>
